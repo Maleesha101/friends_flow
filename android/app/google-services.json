@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "306433095750",
+    "project_id": "friendsflow-cf4cb",
+    "storage_bucket": "friendsflow-cf4cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306433095750:android:2f1895bed27ee879d23247",
+        "android_client_info": {
+          "package_name": "com.builoso.friends_flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306433095750-k7clfii6uqj1v2ld9l9klhm71gqi3urq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.builoso.friends_flow",
+            "certificate_hash": "891dd83bb7f74a663c380fc19d074f9224d29001"
+          }
+        },
+        {
+          "client_id": "306433095750-8q4ajrh6gi2tl41dt6nl7eer21f4pae4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHURikDw3qd3-_IimdX5XHDRS2BsSsvVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306433095750-8q4ajrh6gi2tl41dt6nl7eer21f4pae4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
